@@ -12,7 +12,8 @@ A modern and responsive online food ordering web application built to deliver de
 
 ## 📸 Screenshots
 
-> _(Add screenshots here if available – UI home page, menu, cart, etc.)_
+> ![Screenshot 2025-05-16 234302](https://github.com/user-attachments/assets/6e9900ec-68f7-48f2-9912-16a1eaa9b782)
+
 
 ---
 
